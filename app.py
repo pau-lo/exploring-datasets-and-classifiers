@@ -2,8 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-
 from sklearn import datasets
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
