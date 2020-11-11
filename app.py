@@ -14,8 +14,7 @@ from sklearn.metrics import (
     precision_score,
     recall_score,
     roc_auc_score,
-    plot_confusion_matrix,
-
+    plot_confusion_matrix
 )
 from sklearn.decomposition import PCA
 
